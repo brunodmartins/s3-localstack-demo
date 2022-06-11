@@ -1,0 +1,5 @@
+aws:
+  s3:
+    bucket:
+      name: "my-test-bucket"
+    endpoint: "http://localhost:4566"
